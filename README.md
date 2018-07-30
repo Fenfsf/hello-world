@@ -1,2 +1,7 @@
 # hello-world
-this is my frist project
+```go
+package main
+import "fmt"
+func main(){
+    fmt.Println("Hello World")
+}
